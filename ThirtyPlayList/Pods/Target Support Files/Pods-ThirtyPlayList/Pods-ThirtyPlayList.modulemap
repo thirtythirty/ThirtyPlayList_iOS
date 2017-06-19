@@ -1,0 +1,6 @@
+framework module Pods_ThirtyPlayList {
+  umbrella header "Pods-ThirtyPlayList-umbrella.h"
+
+  export *
+  module * { export * }
+}
